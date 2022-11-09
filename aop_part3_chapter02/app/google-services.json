@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "38356765854",
+    "project_id": "fastcampusandroid",
+    "storage_bucket": "fastcampusandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38356765854:android:c656d57bc2d26a6c6aff8f",
+        "android_client_info": {
+          "package_name": "com.example.aop_part3_chapter01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38356765854-4b0ue4cfqjt7tq2qcurnabfqmn5kkhmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DAR41Jb6tX7OmdPNOF9PiiChB47RJHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38356765854-4b0ue4cfqjt7tq2qcurnabfqmn5kkhmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38356765854:android:33fbdc7fb01485bf6aff8f",
+        "android_client_info": {
+          "package_name": "com.example.aop_part3_chapter02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38356765854-4b0ue4cfqjt7tq2qcurnabfqmn5kkhmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DAR41Jb6tX7OmdPNOF9PiiChB47RJHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38356765854-4b0ue4cfqjt7tq2qcurnabfqmn5kkhmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
