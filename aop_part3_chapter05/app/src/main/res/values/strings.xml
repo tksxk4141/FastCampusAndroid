@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aop_part3_chapter05</string>
+    <string name="login">로그인</string>
+    <string name="signup">회원가입</string>
+
+    <string name="facebook_app_id">882299932783794</string>
+    <string name="fb_login_protocol_scheme">fb882299932783794</string>
+    <string name="facebook_client_token">7c758993a54603f4ac46ff47765fb888</string>
+
+
+</resources>
