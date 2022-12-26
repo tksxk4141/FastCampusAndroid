@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">aop_part3_chapter07</string>
+    <string name="bottomSheetTitleTextView">여러개의 숙소</string>
+</resources>
