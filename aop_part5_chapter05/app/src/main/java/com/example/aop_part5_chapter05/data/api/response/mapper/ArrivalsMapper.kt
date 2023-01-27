@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 
-private val apiDateFormat = SimpleDateFormat("yyyy-MM-dd HH:mm:ss.'0'", Locale.KOREA)
+private val apiDateFormat = SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.KOREA)
 private val dateFormat = SimpleDateFormat("HH:mm:ss", Locale.KOREA)
 
 private const val INVALID_FIELD = "-"
