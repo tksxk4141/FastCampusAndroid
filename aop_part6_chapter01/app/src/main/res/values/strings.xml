@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">aop_part6_chapter01</string>
+    <string name="one_serving">1인분</string>
+
+    <string name="loading">로딩 중…</string>
+
+    <string name="grade_format">%1$,.1f</string>
+
+    <string name="review_count">(%1$d++)</string>
+
+    <string name="delivery_time">%1$d~%2$d분</string>
+
+    <string name="delivery_tip">배달팁 %1$,d원~%2$,d원</string>
+
+    <string name="price">%,d원</string>
+
+    <string name="set_this_location">이 위치로 주소 설정</string>
+
+    <string name="please_set_your_current_location">위치가 맞는지 확인해주세요!</string>
+
+    <string name="please_request_location_permission">위치 권한을 설정해주세요!</string>
+
+    <string name="basket_count">+%d</string>
+
+    <string name="can_not_assigned_permission">권한을 받지 못했습니다.</string>
+
+    <string name="can_not_load_address_info">위치 정보를 불러올 수 없습니다.</string>
+
+    <string name="can_not_load_address">위치 정보 없음</string>
+
+    <string name="initialize">초기화</string>
+    <string name="fast_delivery">배달 빠른 순</string>
+    <string name="low_delivery_tip">배달팁 낮은 순</string>
+    <string name="default_order">기본순</string>
+    <string name="top_rate">별점 높은 순</string>
+    <string name="my">my</string>
+    <string name="home">홈</string>
+    <string name="call">전화</string>
+    <string name="like">찜</string>
+    <string name="share">공유</string>
+
+    <string name="delivery_expected_time">%1$d~%2$d분 소요 예정</string>
+    <string name="delivery_tip_range">%1$,d원 ~ %2$,d원</string>
+
+    <string name="empty_orders_text">주문 리스트가 존재하지 않습니다.</string>
+    <string name="order">주문하기</string>
+    <string name="logout">로그아웃</string>
+    <string name="google_login_required">구글로그인이 필요합니다.</string>
+    <string name="order_list_check">주문 확인</string>
+    <string name="do_order">주문하기</string>
+    <string name="clear_oder_menu">주문 취소</string>
+
+    <string name="empty_like_restaurant_text">찜한 내역이 존재하지 않습니다.</string>
+
+    <!-- Error -->
+    <string name="request_error">요청했지만 예상치 못한 이슈가 발생했습니다 : %s</string>
+    <string name="user_id_not_found">유저 ID가 존재하지 않습니다.</string>
+
+    <!-- like list -->
+    <string name="liked">찜</string>
+    <string name="like_list">찜 리스트</string>
+
+    <string name="order_history_title">주문 내역 : %s</string>
+    <string name="add_restaurant_review">%s 리뷰 등록</string>
+    <string name="title">제목</string>
+    <string name="content">내용</string>
+    <string name="add_review">등록하기</string>
+    <string name="add_image">이미지 등록하기</string>
+    <string name="flash">플래시</string>
+    <string name="image_preview">미리보기</string>
+    <string name="delete">삭제</string>
+    <string name="confirm">확인</string>
+
+    <!-- Image Preview -->
+    <string name="images_page">(%d/%d)</string>
+</resources>
